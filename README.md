@@ -1,13 +1,8 @@
-AT de Desenvolvimento de Serviços Web e Testes com Java
+# AT de Desenvolvimento de Serviços Web e Testes com Java
 
+**Aluno: Felipe Roberto Rocha**
 
-Aluno: Felipe Roberto Rocha
-
-
-Oraganização das etapas:
-
-
-Etapa 1:
+### Etapa 1:
 
 Desenvolvida nos arquivos: 
 
@@ -25,15 +20,13 @@ Main.Java
 
 no caminho: main/java/br/com/taskmanager/...
 
-
-Etapa 2:
+### Etapa 2:
 
 Desenvolvida no arquivo: TaskControllerTest.Java
 
 no caminho: test/java/br/com/taskmanager/controller
 
-
-Etapa 3:
+### Etapa 3:
 
 Desenvolvida no arquivo: ApiClient.Java
 
