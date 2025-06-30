@@ -1,1 +1,1 @@
-O projeto consiste em um sistema de lista de tarefas, com a API desenvolvida com framework Javalin, testada com JUnit e consumida usando HttpURLConnection.
+O projeto consiste em um REST API de lista de tarefas, desenvolvida com framework Javalin, testada com JUnit e consumida usando HttpURLConnection.
